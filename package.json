@@ -1,24 +1,24 @@
 {
-  "name": "qmox-app",
+  "name": "uniapp-mobile",
   "version": "0.0.1",
-  "description": "qmox 原生APP 框架, 基于 react-native",
+  "description": "uniapp 原生移动端APP 框架, 基于 react-native",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/maolion/qmox-app.git"
+    "url": "git+ssh://git@github.com/maolion/uniapp-mobile.git"
   },
   "keywords": [
-    "qmox",
+    "uniapp",
     "react native",
-    "app"
+    "uniapp mobile"
   ],
   "author": "maolion.j@gmail.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/maolion/qmox-app/issues"
+    "url": "https://github.com/maolion/uniapp-mobile/issues"
   },
-  "homepage": "https://github.com/maolion/qmox-app#readme"
+  "homepage": "https://github.com/maolion/uniapp-mobile#readme"
 }
