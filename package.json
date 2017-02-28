@@ -1,7 +1,7 @@
 {
   "name": "uniapp-mobile",
   "version": "0.1.0-dev.1",
-  "description": "uniapp 原生移动端APP 框架, 基于 react-native",
+  "description": "Uniapp 移动端 APP 框架, 基于 react-native",
   "main": "index.js",
   "scripts": {
     "deploy-dev": "npm publish --tag dev",
